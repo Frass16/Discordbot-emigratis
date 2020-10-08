@@ -1,0 +1,16 @@
+{
+  "name": "ticket",
+  "version": "0.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "frass",
+  "license": "ISC",
+  "dependencies": {
+    "better-sqlite3": "^7.1.1",
+    "discord.js": "^11.1.0",
+    "enmap": "^2.81.0"
+  }
+}
